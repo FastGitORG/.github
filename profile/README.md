@@ -1,1 +1,1 @@
-# We are FastGit UK
+# We are FastGit. Goodbye!
