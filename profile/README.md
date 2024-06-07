@@ -1,1 +1,1 @@
-# We are FastGit. Goodbye!
+# We are FastGit 🌩️. Goodbye!
